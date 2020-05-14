@@ -1,0 +1,47 @@
+body{
+    background-color:black;
+    
+}
+
+div{
+    background-color: white;
+    margin:20px;
+    text-align: center;
+    padding: 20px;
+   
+}
+
+.clearfix {
+    overflow:auto;
+
+}
+
+.img{
+    float:center;
+   clear: both;
+
+}
+
+.title{
+    text-decoration: underline;
+    color: navy;
+   
+    
+}
+
+
+
+.bepic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .content {
+      border-left: 2px groove black;
+      border-right: 2px groove black;
+
+  }
+
+

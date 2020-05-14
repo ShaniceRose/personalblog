@@ -1,0 +1,1 @@
+Its just a basic B!^@H blog. I'm proud. :D
